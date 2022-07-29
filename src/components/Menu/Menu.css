@@ -1,0 +1,78 @@
+.Menu h1{
+    font-family:Oranienbaum serif;
+    font-size: 90px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.breakfast{
+    text-align: center;
+    padding-top:30px;
+    padding-bottom: 120px;
+    cursor: pointer;
+}
+
+.breakfast h3{
+    display: inline;
+    font-family:Overlock cursive;
+    font-size: 60px;
+    padding: 60px;
+    text-align: center;
+    
+    /* border-right:4px solid; */
+}
+
+.breakfast h3:hover{
+text-decoration: underline;
+}
+
+.options{
+   margin-left: 150px;
+    display: flex;
+    
+}
+
+
+menu-section{
+    width:620px;
+    height: 221px;
+    
+    
+    
+}
+
+.options h4{
+    font-size: 35px;
+    font-family:Oranienbaum serif;
+    
+}
+
+.title span{
+    padding-left:120px;
+    color:#9E1E1E;
+}
+
+.options p{
+    font-size: 30px;
+    padding-top: 20px;
+    width:520px;
+    height: 221px;
+    padding-right: 200px;
+    font-family:Oranienbaum serif;
+
+}
+
+.linee{
+    width: 520px;
+    border: .5px solid black;
+    margin-left:150px;
+    margin-bottom: 50px;
+    margin-top: -40px;
+    
+}
+
+.line1{
+    width: 520px;
+    border: 1px solid black;
+    margin-top: -40px;
+}
