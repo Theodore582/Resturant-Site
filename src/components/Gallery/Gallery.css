@@ -1,0 +1,10 @@
+.Gallery{
+    display: flex;
+    cursor: pointer;
+}
+
+.Gallery img{
+    display:flex;
+    width: 550px;
+}
+
