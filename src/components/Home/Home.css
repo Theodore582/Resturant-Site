@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+}
+.Hom{
+    background-image: url(../../Images/home.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    overflow-x: hidden;
+    width:100%;
+    height: 750px;
+}
+
+
+.Home h1{
+    margin-right:10px;
+}
+.Home ul{
+    font-size:24px;
+    font-family:Patua One cursive;
+    color: white;
+    display: flex;
+    list-style: none;
+     text-decoration: none;
+     margin-top: -45px;
+     padding-left: 1000px;
+     cursor: pointer;
+     
+}
+
+.Home li{
+     margin-right: 30px;
+     cursor: pointer;
+     
+}
+    
+.Home h1{
+    color: white;
+    font-family:Playfair Display SC serif;
+    font-size: 48px;
+    font-weight: 300;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.Home li:hover{
+    text-decoration: underline;
+}
+
+.middle{
+    font-family:Oranienbaum serif;
+    color: white;
+    align-items: center;
+    display: flex;
+   justify-content: space-between;
+    text-align:center;
+    padding: 250px;
+    font-size: 50px;
+   
+}
+
+.middle h1{
+    height:166px;
+    padding-left: 60px;
+    text-decoration: underline;
+    font-weight: 300;
+    
+}
+
+
+
