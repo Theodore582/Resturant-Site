@@ -1,77 +1,70 @@
-.mini-footer{
-    margin-top: 100px;
-    background-image: url(../../Images/footer.png);
-    height: 512px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    align-items: center;
-    font-family:Oswald sans-serif;
-    
-    
+.mini-footer {
+  margin-top: 100px;
+  background-image: url(../../Images/footer.png);
+  height: 512px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  align-items: center;
+  font-family: Oswald sans-serif;
 }
 
-.word{
-    padding-top:190px;
-    color: white;
-    
+.word {
+  padding-top: 190px;
+  color: white;
 }
 
-.word h2{
-    font-size: 80px;
+.word h2 {
+  font-size: 80px;
 }
-.word h5{
-    font-size: 30px;
-}
-
-.reserve-button{
-    width: 351px;
-    height: 75px;
-    border-radius:44px;
-    font-size: 40px;
-    font-family: 'Oswald', sans-serif;
-    background-color: #383737;
-    color: white;
-    outline: none;
-    border: none;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    cursor: pointer;
-    text-align: center;
-    align-items: center;
-    text-decoration: underline;
+.word h5 {
+  font-size: 30px;
 }
 
-.reserve-button:hover{
-    background-color: #181515;
-    width: 361px;
-    font-size: 42px;
+.reserve-button {
+  width: 351px;
+  height: 75px;
+  border-radius: 44px;
+  font-size: 40px;
+  font-family: "Oswald", sans-serif;
+  background-color: #383737;
+  color: white;
+  outline: none;
+  border: none;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  text-align: center;
+  align-items: center;
+  text-decoration: underline;
 }
 
-.footer{
-    font-family: 'Oswald', sans-serif;
-    display: flex;
-    font-weight: 500;
-    
-    
-    
+.reserve-button:hover {
+  background-color: #181515;
+  width: 361px;
+  font-size: 42px;
 }
 
-.footer ul{
-    list-style: none;
-    cursor: pointer;
-    text-align: center;
-    
+.footer {
+  font-family: "Oswald", sans-serif;
+  display: flex;
+  font-weight: 500;
 }
 
-.move{
-    margin-left: 450px;
+.footer ul {
+  list-style: none;
+  cursor: pointer;
+  text-align: center;
 }
 
-.icon{
-    margin-left: 15px;
+.move {
+  margin-left: 450px;
 }
 
-.icons{
-    margin-left: -5px;
+.icon {
+  margin-left: 15px;
+}
+
+.icons {
+  margin-left: -5px;
 }
